@@ -1,0 +1,16 @@
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.csproj.AssemblyReference.cache
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.AssemblyInfoInputs.cache
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.AssemblyInfo.cs
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\bin\Debug\net6.0\Utkozes.exe
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\bin\Debug\net6.0\tabla.be
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\bin\Debug\net6.0\Utkozes.deps.json
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\bin\Debug\net6.0\Utkozes.runtimeconfig.json
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\bin\Debug\net6.0\Utkozes.dll
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\bin\Debug\net6.0\Utkozes.pdb
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.dll
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\refint\Utkozes.dll
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.pdb
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\Utkozes.genruntimeconfig.cache
+C:\Users\Jonatan\source\repos\practice\Utkozes\Utkozes\obj\Debug\net6.0\ref\Utkozes.dll
